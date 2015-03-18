@@ -117,6 +117,7 @@
 				<div class="col-lg-12">
 					<h3>Stay tuned!</h3>
 					<hr>
+                    <img src="http://d.lanrentuku.com/down/png/0904/Fresh-addon/Fresh-addon_23.png"/>
 					<p>Hot Announcements here!</p>
 				</div>
 			</div>
